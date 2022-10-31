@@ -74,5 +74,8 @@ Intermediate/
 # Cache files for the editor to use
 DerivedDataCache/
 
+# Excluding Large Files 
+PTSoH_LargeFiles/
+
 # .idea
 *.idea
